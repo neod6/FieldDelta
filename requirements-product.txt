@@ -1,0 +1,8 @@
+-r requirements-v2.txt
+fastapi==0.143.0
+uvicorn==0.54.0
+python-multipart==0.0.32
+openai==3.29.0
+python-dotenv==1.2.4
+httpx==0.28.1
+pillow-heif==1.8.1
